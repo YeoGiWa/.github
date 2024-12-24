@@ -27,5 +27,5 @@
 <img width="700" alt="서비스 로직" src="https://github.com/user-attachments/assets/0455092d-575c-45cd-9aaa-e20bf7aa284f" /><br/>
 서비스 전체적인 플로우는 다음과 같습니다.
 
-# 활용 공공데이터
+# 활용 데이터
 <img width="600" alt="활용 데아터" src="https://github.com/user-attachments/assets/a52956d9-028d-48b8-897b-953eaf2e41d9" />
