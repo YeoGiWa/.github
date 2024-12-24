@@ -19,10 +19,13 @@
 따라서 이러한 과정을 통해 여행 방문자는 포인트 사용으로 <b>여행 경비 부담을 낮출 수 있고 축제 홍보 및 주변 지역 상권 활성화 효과를 볼 수 있습니다.</b>
 
 # IA
-<img width="900" alt="IA" src="https://github.com/user-attachments/assets/81d1583b-a8d7-4f38-9ce7-eb4431aaf9dd" /><br/>
+<img width="700" alt="IA" src="https://github.com/user-attachments/assets/81d1583b-a8d7-4f38-9ce7-eb4431aaf9dd" /><br/>
 
 서비스 기능은 크게 지역 축제 제공, 축제 홍보, 축제 관리자 섹션으로 기능으로 나눌 수 있습니다.
 
 # 전체 로직
-![Frame 1707482602](https://github.com/user-attachments/assets/0455092d-575c-45cd-9aaa-e20bf7aa284f)
+<img width="700" alt="서비스 로직" src="https://github.com/user-attachments/assets/0455092d-575c-45cd-9aaa-e20bf7aa284f" />
 서비스 전체적인 플로우는 다음과 같습니다.
+
+# 활용 공공데이터
+<img width="600" alt="활용 데아터" src="https://github.com/user-attachments/assets/a52956d9-028d-48b8-897b-953eaf2e41d9" />
